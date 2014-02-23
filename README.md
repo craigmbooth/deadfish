@@ -79,7 +79,7 @@ From ``deadfish_cli()``:
 Horrrrrrrrrrible
 >>o
 101
->>h
+>>w
 Hello, World!
 ```
 
